@@ -43,3 +43,10 @@ The data are actual data collected to evaluate the impact of the Progresa progra
 |village|	village id|
 |sc97	|schooling in 1997|
 |grc97  |grade enrolled in 1997
+
+## Key Findings
+From the analysis, there is strong evidence that the Progresa program had a causal and statistically significant impact on increasing school enrollment among poor children in Mexico. Although some baseline differences existed between treatment and control villages, pre-program enrollment rates were similar, supporting the validity of the randomization.
+
+After Progresa’s rollout in 1998, enrollment in treatment villages rose by about 3.8 percentage points. This effect remained consistent and significant across various methods, including simple differences, regression models, and difference-in-differences analysis. Adding control variables slightly lowered the estimate to 3.5 points but increased precision, reinforcing the robustness of the findings.
+
+Progresa had no measurable impact on non-poor households, suggesting minimal spillover. Other outcomes, like grade advancement, showed small, statistically insignificant improvements. Overall, the program successfully increased educational participation among the targeted poor population.
